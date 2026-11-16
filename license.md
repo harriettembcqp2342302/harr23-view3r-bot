@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/harr23-view3r-bot)
+[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/8g2kxKOqItDQH25qT)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/harr23-view3r-bot)
+[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/8g2kxKOqItDQH25qT)
 
 </div>
 
@@ -172,7 +172,7 @@ Analyze Instagram stories and engagement for free. **PrimeViewerBot – Instagra
 
 <div align="center">
 
-[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/harr23-view3r-bot)
+[![Download PrimeViewerBot](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/8g2kxKOqItDQH25qT)
 
 **Version 3.0.0** — Free Instagram story viewer and tracker. May 2026 update. Zero cost. No payment.
 
